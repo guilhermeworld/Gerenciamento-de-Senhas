@@ -1,0 +1,32 @@
+
+html{
+	background: linear-gradient(-45deg, #aae2de 0%, #71cfc8 100%); 
+	font-family: 'lucida grande', tahoma, verdana, arial, sans-serif; 
+	font-size: 16px
+	}
+
+p{
+	color: White
+}
+
+th{
+	color: White
+}
+main {
+	background: #fff; 
+	text-align: center;
+	}
+
+main table{background: #fff; 
+	font-size: 18px
+	}
+
+.hidden{
+	display: none;
+}
+
+
+
+
+
+		 
