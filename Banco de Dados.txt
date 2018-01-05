@@ -1,0 +1,14 @@
+CREATE DATABASE gersenhas;
+
+USE gersenhas;
+
+CREATE TABLE senhas (
+
+  idSenha INT(11) NOT NULL AUTO_INCREMENT,
+  Local VARCHAR(50) NOT NULL,
+  Login VARCHAR(50) NOT NULL,
+  Senha VARCHAR(50) NOT NULL,
+  Data date NOT NULL,
+
+  PRIMARY KEY(idSenha)
+);
